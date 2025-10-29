@@ -58,6 +58,22 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest",
+      "title": "APIs REST com FastAPI",
+      "description": "Desenvolvimento de APIs REST modernas usando FastAPI",
+      "path": "assignments/fastapi-rest",
+      "dueDate": "2025-11-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
+  ]
+}
   ]
 }
