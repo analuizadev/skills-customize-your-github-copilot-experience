@@ -1,10 +1,10 @@
 # 📘 Assignment: Data Analysis
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Students will learn the basics of data analysis using Python. They will load, explore, and analyze a dataset to extract meaningful insights.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Data Loading and Exploration
 
